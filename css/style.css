@@ -1,0 +1,19 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#navbar {
+  position: fixed;
+  min-width: 290px;
+}
+#main-doc {
+  margin-left: 300px;
+}
+.main-section {
+  font-weight: 200;
+}
+@media screen and (max-width: 1500px) {
+  #header h1 {
+    font-size: 18px;
+  }
+}
